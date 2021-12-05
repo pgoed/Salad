@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to salads</h2>
+<h2>Welcome to the new salad creations</h2>
 </body>
 </html>
